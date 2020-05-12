@@ -1,0 +1,5 @@
+Customer ID,Type,Payment Mode,Frequency
+AA-10375,Premium,Cash,Regular
+AB-10060,Niche,Card,Montlhy
+BV-11245,Small,Cheque,Quarterly
+KH-16630,Niche,Cash,Yearly
